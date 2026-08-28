@@ -1,0 +1,12 @@
+opencv-python
+Pillow
+pytesseract
+pypdf
+pikepdf
+fastapi
+uvicorn[standard]
+python-multipart
+numpy
+scikit-image
+supabase
+python-dotenv
